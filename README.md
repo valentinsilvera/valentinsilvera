@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentinsilvera
 - 📲 I make apps
-- 🌱 Currently writing my bachelor's thesis for Software Engineering
+- 🎓 Software Engineer Bachelor
 - 📍 Barcelona, Spain
 - 📫 valentinsilvera@icloud.com
 
