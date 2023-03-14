@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentinsilvera
 - 📲 I make apps
-- 🎓 Software Engineer Bachelor
+- 🎓 Software Engineer
 - 📍 Barcelona, Spain
 - 📫 valentinsilvera@icloud.com
 
